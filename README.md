@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Remco Slootmaekers
 - 👀 I’m interested in IT, games, tech.
+- Student at UCLL Campus Proximus
 - 🌱 I’m currently learning IT
 - ⚡ Fun fact: I'm on my way to becoming a top osu! player!
 
