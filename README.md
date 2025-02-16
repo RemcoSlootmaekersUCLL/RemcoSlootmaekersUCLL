@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Remco Slootmaekers
-- 👀 I’m interested in IT, games, tech.
+- Hi, I’m Remco Slootmaekers
+- I’m interested in IT, games, tech.
 - Student at UCLL Campus Proximus
-- 🌱 I’m currently learning IT
-- ⚡ Fun fact: I'm on my way to becoming a top osu! player!
+- I’m currently learning IT
+- Fun fact: I'm on my way to becoming a top osu! player!
 
 <!---
 RemcoSlootmaekersUCLL/RemcoSlootmaekersUCLL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
